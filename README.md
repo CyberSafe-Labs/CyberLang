@@ -1,9 +1,11 @@
 # CyberLang
-A JavaScript Interpreted Closed-Source Programming Language
+A JavaScript Interpreted Open-Source Programming Language
 
 How to Use?
 You can Read the docs on the editor page 
 Or
 Use the examples
 
-As for now CyberLang is currently closed-source
+CyberLang Is **now open source!**
+
+The jzap folder contains the interpreter and the web contains the user interface hosted at http://www.cybersafe.eztro.com/cyberlang
